@@ -1,0 +1,22 @@
+{
+    "credentials": {
+        "adminUsername": "Admin",
+        "adminPassword": "admin123",
+        "employeeUsername": "Aishwarryapande",
+        "employeePassword": "Test123"
+    },
+    "employees": [
+        {
+            "firstName": "Oktest1",
+            "middleName": "",
+            "lastName": "Ok1",
+            "employeeId": ""
+        }
+
+    ],
+    "leaveDetails": {
+        "leaveType": "US - Personal",
+        "leaveDate": "2025-03-27",
+        "comment": "Sick Leave"
+    }
+}
